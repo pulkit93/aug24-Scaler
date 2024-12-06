@@ -27,11 +27,9 @@ type(.2)
 
 type(2.)
 
-type(2)
-
 type("2.4") # str ~ string
 
-type(True)
+type(True) # boolean
 
 print(type(None))
 type(1)
