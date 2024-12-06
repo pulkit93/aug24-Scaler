@@ -19,9 +19,9 @@ print('India won the world cup in 2024')
 
 PRINT("will this work?") # python is case sensitive
 
-print(4 < 3)
+print(5 < 3)
 
-print("Hello class')
+print("bye class. Last lecture today')
 
 type(.2)
 
