@@ -117,3 +117,5 @@ type(None)
 
 int(x) = input() # doubt from the class
 
+print("last day of class, Thank you !!!")
+
